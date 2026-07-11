@@ -1,7 +1,7 @@
 # AI & Machine Learning Training
 
 ## Day 1
-**Date:** 11 July 2026
+**Date:** 30 June 2026
 
 ### Topics Covered
 - Introduction to Artificial Intelligence (AI)
